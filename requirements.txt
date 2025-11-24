@@ -1,0 +1,7 @@
+fastapi
+reflex
+requests
+passlib
+sqlmodel
+bcrypt
+bcrypt==4.0.1
